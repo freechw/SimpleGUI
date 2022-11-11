@@ -1,6 +1,8 @@
 # SimpleGUI
 
 ---
+#### 重要说明
+本人非原作者，项目来源于https://gitee.com/Polarix/simplegui，原链接打开文档，竟然提示有违规信息，为了阅读方便，上传到github上。捐赠二维码也是原作者的二维码。
 
 #### 简介
 
